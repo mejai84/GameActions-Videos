@@ -1,0 +1,15 @@
+*.mp4
+*.webm
+*.mov
+*.mkv
+*.avi
+*.mp3
+*.wav
+*.zip
+*.7z
+*.rar
+*.psd
+*.prproj
+*.aep
+Thumbs.db
+.DS_Store
